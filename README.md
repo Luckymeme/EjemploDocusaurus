@@ -1,2 +1,2 @@
-# EjemploDocusaurus
+# EjemploDocusaurus 🦖
 Ejercicio 4: Documentaciones
